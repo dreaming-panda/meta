@@ -1,5 +1,5 @@
 #use your todo folder below
-cd /data/home/beidic/zhuoming/submit-meta
+cd /data/home/beidic/zhuoming/meta
 git pull
 
 cd todo
